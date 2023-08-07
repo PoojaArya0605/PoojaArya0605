@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PoojaArya0605
-- 👀 I’m interested in Software developer role
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on development of softwares.
+- 👋 Hi, I’m Pooja Arya
+- 👀 I’m interested in the Software developer 3role
+- 🌱 I’m currently working As a System Engineer 
+- 💞️ I’m looking to collaborate on the development of software.
 - 📫 aryapoojantl98@gmail.com
 
 <!---
